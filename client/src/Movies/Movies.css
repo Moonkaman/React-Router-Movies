@@ -1,0 +1,9 @@
+.saved-list a {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+
+.saved-list a.active {
+  color: lightseagreen;
+}

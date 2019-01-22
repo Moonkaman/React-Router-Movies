@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
+import './Movies.css'
+
 export default class SavedList extends Component {
   constructor(props) {
     super(props);
