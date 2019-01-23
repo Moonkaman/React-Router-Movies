@@ -1,0 +1,14 @@
+.saved-list a {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+
+.saved-list a.active {
+  color: lightseagreen;
+}
+
+.movie-cont-link {
+  text-decoration: none;
+  color: black;
+}
